@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../CodeCamp-Frontend-Gwansoon"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "precamp"
+	}
+}

@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.LandingPage {
+    display: flex;
+    align-items: center;
+    width: 670px;
+    height: 960px;
+    top: 60px;
+    left: 625px;
+    border-radius: 20px;
+    border: 1px #aacdff;
+}
+
+.secondPage {
+    width: 470px;
+    height: 818px;
+    top: 132px;
+    left: 725px;
+}
+
+
+
+
+.titleH2 {
+    color: #AACDEF;
+}
+
+.pw {
+    border: 1px solid blue;
+}
+
